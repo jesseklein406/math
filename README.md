@@ -1,1 +1,1 @@
-# math
+A simple app to find a root in a function
